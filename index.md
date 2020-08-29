@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+About me
+I'm currently pursuing my Ph.D. degree with the College of Liberal Arts and Sciences, National University of Defense Technology, Changsha, China. I was a visiting student at the Department of Electrical and Electronic Engineering, Imperial College London from 2017 to 2018 under the support of the China Scholarship Council.
 
-You can use the [editor on GitHub](https://github.com/qy2116/qy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Recent
+No recent news.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Short bio
+I received the B.S. degree in applied mathematics from the National University of Defense Technology in 2014. Then I continued my M.S. study in National University of Defense Technology, and in 2016 I was chosen to be a Ph.D. candidate without an M.S. degree.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/qy2116/qy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Research Interest
+Sparse signal processing, compressed sensing, dictionary learning and their applications in image processing.
